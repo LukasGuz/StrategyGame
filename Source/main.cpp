@@ -2,10 +2,10 @@
 // main.cpp for the Strategy Game
 //
 
-#include <iostream.h>
+#include <iostream>
 
 
-int int main(int argc, char const *argv[]) {
+int main(int argc, char const *argv[]) {
    std::cout << "Hello World" << std::endl;
    return 0;
 }
