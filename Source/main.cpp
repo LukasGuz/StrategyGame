@@ -1,5 +1,6 @@
-
-
+//
+// main.cpp for the Strategy Game
+//
 
 #include <iostream.h>
 
