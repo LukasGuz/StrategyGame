@@ -2,10 +2,14 @@
 // main.cpp for the Strategy Game
 //
 
-#include <iostream>
+// includes (Headerfiles):
+#include "Headerfiles/MainGame.h"
 
+int main(/*int argc, const char *argv[]*/) {
 
-int main(int argc, char const *argv[]) {
-   std::cout << "Hello World" << std::endl;
+   MainGame mainGame;
+   mainGame.Run();
+
    return 0;
+
 }
